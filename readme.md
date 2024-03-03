@@ -1,0 +1,1 @@
+The performance of the application is stable and reliable, capable of running steadily for a long time
